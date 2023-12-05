@@ -1,0 +1,4 @@
+
+{"scripts": {
+"db": "json-server -d1200 --watch data/movies.json"
+}}
