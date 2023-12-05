@@ -1,16 +1,45 @@
+<!--movie.html-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Splash Page</title>
+    <title>Movies Application</title>
+    <!-- Add link to Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/movieApp.css">
 </head>
 <body>
-<div class="splash-container">
-    <img src="your-logo.png" alt="Your Logo" class="splash-logo">
-    <p class="splash-text">Welcome to Our Website!<br>Discover something amazing.</p>
-    <a href="your-main-page.html" class="splash-button">Enter</a>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Movie App</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">New Releases</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+
+<div id="app">
+    <p id="loading">Loading...</p>
+    <ul id="movies-list"></ul>
+    <form id="add-movie-form">
+        <label for="title">Title:</label>
+        <input type="text" id="title" name="title" required>
+        <label for="rating">Rating:</label>
+        <input type="number" id="rating" name="rating" min="1" max="10" required>
+        <button type="submit">Add Movie</button>
+    </form>
 </div>
+
+<script src="js/movieApp.js"></script>
 </body>
 </html>

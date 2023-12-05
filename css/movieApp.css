@@ -1,3 +1,27 @@
+/*movieApp.css*/
+
+/* Apply custom styles to the navigation bar */
+.navbar {
+    background-color: #fff; /* Set your desired background color */
+    border-bottom: 1px solid #ddd; /* Add a border at the bottom */
+}
+
+.navbar-brand {
+    font-weight: bold; /* Make the brand text bold */
+}
+
+.navbar-nav .nav-link {
+    color: #333; /* Set the link color */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #4285f4; /* Set the link color on hover */
+}
+
+#app {
+    padding: 20px; /* Add some padding to the app content */
+}
+
 
 body {
     margin: 0;
