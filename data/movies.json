@@ -1,9 +1,46 @@
 {
   "movies": [
     {
-      "id": 1,
+      "id": 1701884197071,
+      "title": "Cars",
+      "rating": "7.2",
+      "movieSummary": "On the way to the biggest race of his life, a hotshot rookie race car gets stranded in a rundown town and learns that winning isn't everything in life.",
+      "genre": "Animation, Adventure, Comedy"
+    },
+    {
+      "id": 1701884602597,
+      "title": "Cars 2",
+      "rating": "6.2",
+      "movieSummary": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international e...",
+      "genre": "Animation, Adventure, Comedy"
+    },
+    {
+      "id": 1701884604900,
+      "title": "Cars 3",
+      "rating": "6.7",
+      "movieSummary": "Lightning McQueen sets out to prove to a new generation of racers that he's still the best race car in the world.",
+      "genre": "Animation, Adventure, Comedy"
+    },
+    {
+      "id": 1701884607411,
       "title": "Shrek",
-      "rating": 5
+      "rating": "7.9",
+      "movieSummary": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.",
+      "genre": "Animation, Adventure, Comedy"
+    },
+    {
+      "id": 1701884610386,
+      "title": "Shrek 2",
+      "rating": "7.3",
+      "movieSummary": "Shrek and Fiona travel to the Kingdom of Far Far Away, where Fiona's parents are King and Queen, to celebrate their marriage. When they arrive, they find they are not as welcome as they thought they would be.",
+      "genre": "Animation, Adventure, Comedy"
+    },
+    {
+      "id": 1701884616166,
+      "title": "Shrek the Third",
+      "rating": "6.1",
+      "movieSummary": "Reluctantly designated as the heir to the land of Far, Far Away, Shrek hatches a plan to install the rebellious Artie as the new king while Princess Fiona tries to fend off a coup d'état by the jilted Prince Charming.",
+      "genre": "Animation, Adventure, Comedy"
     }
   ]
 }
