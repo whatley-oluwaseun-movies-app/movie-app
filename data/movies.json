@@ -1,6 +1,7 @@
 {
   "movies": [
     {
+      "image": "https://lumiere-a.akamaihd.net/v1/images/p_cars3_19643_3ab8aca1.jpeg",
       "id": 1701884604900,
       "title": "Cars 3",
       "rating": "6.7",
@@ -8,6 +9,7 @@
       "genre": "Animation, Adventure, Comedy"
     },
     {
+      "image": "https://m.media-amazon.com/images/M/MV5BOGZhM2FhNTItODAzNi00YjA0LWEyN2UtNjJlYWQzYzU1MDg5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
       "id": 1701884607411,
       "title": "Shrek",
       "rating": "7.9",
@@ -15,6 +17,7 @@
       "genre": "Animation, Adventure, Comedy"
     },
     {
+      "image": "https://m.media-amazon.com/images/M/MV5BMDJhMGRjN2QtNDUxYy00NGM3LThjNGQtMmZiZTRhNjM4YzUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
       "id": 1701884610386,
       "title": "Shrek 2",
       "rating": "7.3",
@@ -22,6 +25,7 @@
       "genre": "Animation, Adventure, Comedy"
     },
     {
+      "image":"https://m.media-amazon.com/images/M/MV5BOTgyMjc3ODk2MV5BMl5BanBnXkFtZTcwMjY0MjEzMw@@._V1_.jpg",
       "id": 1701884616166,
       "title": "Shrek the Third",
       "rating": "6.1",
@@ -29,9 +33,76 @@
       "genre": "Animation, Adventure, Comedy"
     },
     {
-      "title": "bad boys 3",
-      "rating": "8",
-      "id": 1701884616167
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg",
+      "id": 1701884616167,
+      "title": "The Dark Knight",
+      "rating": "9.0",
+      "movieSummary": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+      "genre": "Action, Crime, Drama"
+    },
+    {
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7825626_p_v8_af.jpg",
+      "id": 1701884616168,
+      "title": "Inception",
+      "rating": "8.8",
+      "movieSummary": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "genre": "Action, Adventure, Sci-Fi"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",
+      "id": 1701884616169,
+      "title": "The Shawshank Redemption",
+      "rating": "9.3",
+      "movieSummary": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "genre": "Drama"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg",
+      "id": 1701884616168,
+      "title": "The Dark Knight Rises",
+      "rating": "8.4",
+      "movieSummary": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+      "genre": "Action, Adventure"
+    },
+    {
+      "image": "https://musicart.xboxlive.com/7/6e355100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+      "id": 1701884616169,
+      "title": "Joker",
+      "rating": "8.4",
+      "movieSummary": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+      "genre": "Crime, Drama, Thriller"
+    },
+    {
+      "image": "https://media.gq.com/photos/58ee5612eb11fb4e6bf49344/1:1/w_1295,h_1295,c_limit/fast-and-furious-future.jpg",
+      "id": 1701884616170,
+      "title": "Fast & Furious",
+      "rating": "6.6",
+      "movieSummary": "Brian O'Conner, back working for the FBI in Los Angeles, teams up with Dominic Toretto to bring down a heroin importer by infiltrating his operation.",
+      "genre": "Action, Crime, Thriller"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/M/MV5BMzExYjcyYWMtY2JkOC00NDUwLTg2OTgtMDI3MGY2OWQzMDE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "id": 1701884616171,
+      "title": "2 Fast 2 Furious",
+      "rating": "5.9",
+      "movieSummary": "Former cop Brian O'Conner is called upon to bust a dangerous criminal and he recruits the help of a former childhood friend and street racer who has a chance to redeem himself.",
+      "genre": "Action, Crime, Thriller"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2NTMxODEyNV5BMl5BanBnXkFtZTcwMDgxMjA0MQ@@._V1_.jpg",
+      "id": 1701884616172,
+      "title": "The Fast and the Furious: Tokyo Drift",
+      "rating": "6",
+      "movieSummary": "A teenager becomes a major competitor in the world of drift racing after moving in with his father in Tokyo to avoid a jail sentence in America.",
+      "genre": "Action, Crime, Thriller"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1_FMjpg_UX1000_.jpg",
+      "id": 1701884616174,
+      "title": "Fast Five",
+      "rating": "7.3",
+      "movieSummary": "Dominic Toretto and his team of street racers plan",
+      "genre": "Action, Crime, Thriller"
     }
   ]
 }

@@ -1,0 +1,48 @@
+
+
+/*table {*/
+/*    border-collapse: collapse;*/
+/*    margin: 15px 0;*/
+/*}*/
+
+/*td, th {*/
+/*    border: 1px solid black;*/
+/*    padding: 5px 10px;*/
+/*}*/
+
+
+
+
+
+/*HIDING SPECIFIC ID'S AND THE ID NUMBERS THEMSELVES HERE*/
+#coffees td:first-child {
+    display: none;
+}
+
+#coffee-id {
+    display: none;
+}
+
+
+.card {
+    /*background: url('Img/coffee2.jpg') no-repeat center center fixed;*/
+    /*background-size: cover;*/
+    /*position: relative;*/
+}
+
+.card-body {
+    font-size: x-large;
+    background-color: #ffffff;
+    color: #EADDCA;
+    opacity: .7;
+    /*background: url('Img/coffee2.jpg') no-repeat center center fixed;*/
+}
+section {
+    color: black;
+}
+#coffee-pour {
+    bottom: 4px;
+    right: 4px;
+    position: fixed;
+    width: 30em;
+}
