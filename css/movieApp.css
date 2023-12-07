@@ -612,6 +612,7 @@ body.active { overflow: hidden; }
 .service-btn ion-icon {
     font-size: 30px;
     transform: rotate(-0.25turn);
+
 }
 
 .service-subtitle {
@@ -1597,3 +1598,50 @@ body.active { overflow: hidden; }
 
 }
 
+.splashcont{
+    background-color: rgba(100,201,154);
+    padding : 20px;
+    margin : 50px auto;
+    border : 2px solid white;
+    display : grid;
+    width : 70%;
+}
+.splash{
+    cursor : pointer;
+    position : fixed;
+    top : 50%;
+    left : 50%;
+    height : 95%;
+    width : 95%;
+    transform : translate(-50%,-50%);
+    background-color: rgba(0,0,0);
+    transition : all ease-in-out 600ms;
+}
+.hidden{
+    transition : 0.5s;
+    display : none;
+}
+.splash-header {
+    height : 90%;
+    color : white;
+    font-family : consolas;
+    font-size : 30px;
+    display : flex;
+    justify-content: center;
+    align-items : center;
+}
+
+.btn {
+    /*   border : none; */
+    /*   padding : 10px; */
+    /*   position : fixed; */
+    z-index : -1;
+    left : 50%;
+    transform : translateX(-50%);
+}
+
+.ionicon{
+    display: none;
+    visibility: hidden;
+
+}
